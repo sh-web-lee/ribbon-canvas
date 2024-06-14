@@ -1,0 +1,9 @@
+{
+    "name": "ribbon-canvas",
+    "npmname": "@souljs/ribbon.js",
+    "umdname": "@souljs/ribbon.js",
+    "username": "lee",
+    "type": "ts",
+    "lang": "zh",
+    "version": "2.3.4"
+}
